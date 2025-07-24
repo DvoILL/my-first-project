@@ -1,3 +1,3 @@
 # my-first-project
 
-fist info
+first info
